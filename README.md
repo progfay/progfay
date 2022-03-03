@@ -14,5 +14,5 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+  <img alt="Shunsuke Mano's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
 </div>
