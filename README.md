@@ -46,8 +46,8 @@
 <section>
   <h2 align="center">GitHub Stats</h2>
   <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=progfay&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-      <img alt="Shunsuke Mano's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+    <a href="https://github-readme-stats.vercel.app/api?username=progfay&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
+      <img alt="Shunsuke Mano's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&include_all_commits=true&rank_icon=percentile&count_private=true&theme=dracula&border_radius=10&hide_border=true&show_icons=true">
     </a>
   </div>
 </section>
