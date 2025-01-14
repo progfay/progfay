@@ -1,8 +1,8 @@
 <section>
   <h2 align="center">Accounts</h2>
   <p align="center">
-    <a href="https://twitter.com/progfay">
-      <img alt="Twitter: @progfay" src="https://img.shields.io/static/v1?style=for-the-badge&message=@progfay&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
+    <a href="https://x.com/progfay">
+      <img alt="X: @progfay" src="https://img.shields.io/static/v1?style=for-the-badge&message=@progfay&color=000000&logo=X&logoColor=FFFFFF&label=">
     </a>
     <a href="https://zenn.dev/progfay">
       <img alt="Zenn: @progfay" src="https://img.shields.io/static/v1?style=for-the-badge&message=@progfay&color=3EA8FF&logo=Zenn&logoColor=FFFFFF&label=">
@@ -19,11 +19,11 @@
     <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/About_JavaScript">
       <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
     </a>
+    <a href="https://www.typescriptlang.org/">
+      <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=">
+    </a>
     <a href="https://go.dev/">
       <img alt="Go" src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=">
-    </a>
-    <a href="https://www.ruby-lang.org/">
-      <img alt="Ruby" src="https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=">
     </a>
   </p>
 </section>
